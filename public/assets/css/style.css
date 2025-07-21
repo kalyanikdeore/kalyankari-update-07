@@ -1,0 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); */
+
+
+/* h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat", sans-serif !important;
+}
+p,span,small,a{
+    font-family: "Open Sans", sans-serif !important;
+} */
+
+.heroBg{
+    /* border:2px solid red; */
+    background-image: url('./../images/10.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* height: 100vh; */
+}
